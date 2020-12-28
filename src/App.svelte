@@ -10,7 +10,7 @@
 </main>
 
 <script lang="ts">
-import Hello from './components/Hello.svelte';
+import Hello from './components/Hello/Hello.svelte';
 export let name: string;
 </script>
 
